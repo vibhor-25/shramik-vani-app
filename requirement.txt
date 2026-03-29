@@ -1,0 +1,6 @@
+streamlit>=1.31.0
+streamlit-folium
+folium
+pydub
+requests
+pandas
